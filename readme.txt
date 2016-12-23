@@ -1,2 +1,2 @@
-git is a version cintrol ststem.
+git is a distributed version cintrol ststem.
 git is free software.
